@@ -1,0 +1,3 @@
+echo 'Hello Cheeseade, woof!'
+echo 'run eslint command > npm run lint'
+npm run lint
